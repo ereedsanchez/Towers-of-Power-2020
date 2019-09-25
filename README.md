@@ -14,10 +14,10 @@ Guests speakers, may include Peter Bloom from Rhizomatica (Indigenous GSM Networ
 
 # Class Dates
   1. Intros - History of the Internet, and Coomuntiy Networks
-  LAB: Make Ethernet Cables
-  Discus: Community Networks
-  HW: Set up Portable Network Kit (PNK)
-  Reading: Internet Society  
+  - LAB: Make Ethernet Cables
+  - Discus: Community Networks
+  - HW: Set up Portable Network Kit (PNK)
+  - Reading: Internet Society  
   
   2. Mikrotik - Intro to networking - OSI Model, SSIds, IP Addresses
   LAB (Mikrotik): Winbox, Password, Users, Upgrade Firmware, Backups, SSIDs, DHCP/Static IPs
