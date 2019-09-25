@@ -25,12 +25,12 @@ To elaborate on challenges in community networking, guests speakers, may include
   - HW: Set up Portable Network Kit (PNK)
   - Reading: Internet Society  
   
-  ### 2. Mikrotik - Intro to networking - OSI Model, SSIds, IP Addresses
-  - LAB (Mikrotik): Winbox, Password, Users, Upgrade Firmware, Backups, SSIDs, DHCP/Static IPs
-  - Guest Speaker: Jane Coffin - Internet Society 
-  - HW: Mikrotik HotSpot Lab
-  - Reading: Resilient Communities 
   
+  ### 2. Mikrotik - Intro to networking - OSI Model, SSIDs, IP Addresses
+  - LAB (Mikrotik): Winbox, Password, Users, Upgrade Firmware, Backups, SSIDs, DHCP/Static IPs
+  - Guest Speaker: Jane Coffin - Internet Society
+  - HW: Mikrotik HotSpot Lab
+  - Reading: Resilient Communities
   
   ### 3. Mikrotik - Bridges, VLANs, DHCP Servers, VPNs
   - LAB (Mikrotik): Bridges, VLANs, DHCP Servers
