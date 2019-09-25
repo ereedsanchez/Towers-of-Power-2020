@@ -37,7 +37,7 @@ ereedsanchez@gmail.com
 + Student Introductions: an ITP tradition!
 + Syllabus and expectations
 + History of SayCel
-+ History of Netowrks
++ History of Networks
 + OSI Model 
 + Introduction to Mikrotik 
 
