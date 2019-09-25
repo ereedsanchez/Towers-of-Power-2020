@@ -78,10 +78,6 @@ Guests speakers, may include Peter Bloom from Rhizomatica (Indigenous GSM Networ
   ### 12. Final Presentation 
   
   
-# Materials 
-+ Mikrotik hAP
-+ Raspberry Pi
-  
 # Office Hours
 I will be available for office hours by appointment .... 
  ereedsanchez@gmail.com
