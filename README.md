@@ -18,7 +18,8 @@ To elaborate on challenges in community networking, guests speakers, may include
 + Raspberry Pi
 
 # Sylybus
-  ### 1. Intros - History of the Internet, and Coomuntiy Networks
+
+  ### 1. Intros - History of the Internet, and Communtiy Networks
   - LAB: Make Ethernet Cables
   - Discus: Community Networks
   - HW: Set up Portable Network Kit (PNK)
