@@ -19,7 +19,7 @@ Guests speakers, may include Peter Bloom from Rhizomatica (Indigenous GSM Networ
   HW: Set up Portable Network Kit (PNK)
   Reading: Internet Society  
   
-  2. Mikrotik - Intro to networking - OSI Model, SSIds, IP Addresses 
+  2. Mikrotik - Intro to networking - OSI Model, SSIds, IP Addresses
   LAB (Mikrotik): Winbox, Password, Users, Upgrade Firmware, Backups, SSIDs, DHCP/Static IPs
   Guest Speaker: Jane Coffin - Internet Society 
   HW: Mikrotik HotSpot Lab
