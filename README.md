@@ -20,45 +20,43 @@ Guests speakers, may include Peter Bloom from Rhizomatica (Indigenous GSM Networ
   - Reading: Internet Society  
   
   2. Mikrotik - Intro to networking - OSI Model, SSIds, IP Addresses
-  LAB (Mikrotik): Winbox, Password, Users, Upgrade Firmware, Backups, SSIDs, DHCP/Static IPs
-  Guest Speaker: Jane Coffin - Internet Society 
-  HW: Mikrotik HotSpot Lab
-  Reading: Resilient Communities 
+  - LAB (Mikrotik): Winbox, Password, Users, Upgrade Firmware, Backups, SSIDs, DHCP/Static IPs
+  - Guest Speaker: Jane Coffin - Internet Society 
+  - HW: Mikrotik HotSpot Lab
+  - Reading: Resilient Communities 
   
   3. Mikrotik - Bridges, VLANs, DHCP Servers, VPNs
-  LAB (Mikrotik): Bridges, VLANs, DHCP Servers
-  Guest Speaker: New York Community Networks Danny Peralta (The Point), Greta Byrum and Raul Resilient Communities
-  HW: Set up VPN to your Mikrotik, Customize Homepage for Hotspot using Portable Network Kit
+  - LAB (Mikrotik): Bridges, VLANs, DHCP Servers
+  - Guest Speaker: New York Community Networks Danny Peralta (The Point), Greta Byrum and Raul Resilient Communities
+  - HW: Set up VPN to your Mikrotik, Customize Homepage for Hotspot using Portable Network Kit
   
   4.  Mikrotik - Limiting Bandwidth (Simple Ques vs Que Trees), Facebook Blocking  
-  LAB (Mikrotik): Limiting Bandwidth (Simple Ques)
-  Discuss: Finals Ideas Group 1
-  HW: Set up VPN to your Mikrotik, Customize Homepage for Hotspot using Portable Network Kit
+  - LAB (Mikrotik): Limiting Bandwidth (Simple Ques)
+  - Discuss: Finals Ideas Group 1
+  - HW: Set up VPN to your Mikrotik, Customize Homepage for Hotspot using Portable Network Kit
   
   5. Wireless - Antenna Fundamentals
-  LAB: Point to Point Configurations
-  Discuss: Finals Ideas Group 2
-  Guest Speaker: TBD
+  - LAB: Point to Point Configurations
+  - Discuss: Finals Ideas Group 2
+  - Guest Speaker: TBD
   
   6. Wireless - Point to Multipoint + Mesh + Mikrotik Router 
-  Lab: Point to Multipoint, if time VLANs on Radios 
+  - Lab: Point to Multipoint, if time VLANs on Radios 
   
   7. Off Grid Electrical - Understanding Power consumption. 12V vs 24V. Building off grid solar systems. 
-  Lab: Power Radio Antenna w/ POE Solar Controller + Battery
+  - Lab: Power Radio Antenna w/ POE Solar Controller + Battery
   
   8. Fiber - History of Fiber, Fiber Technologies, Fiber Tools, 
-  Lab: Fuse Fiber Cables 
-  Guest Speaker: TBD (Indigenous Commuity Fiber Network)
-  HW: Find a town or city that you would like to install fiber.  
-  Print out a map for class and send me a digital copy.  
+  - Lab: Fuse Fiber Cables 
+  - Guest Speaker: TBD (Indigenous Commuity Fiber Network)
+  - HW: Find a town or city that you would like to install fiber. Print out a map for class and send me a digital copy.  
   
   9. Fiber Planning + Mapping
-  LAB: In pairs create a fiber plan to distribute Fiber Internet to 128 Clients.  
-  I will provide locations for clients.    
-  Reading: Regulations articles
+  - LAB: In pairs create a fiber plan to distribute Fiber Internet to 128 Clients. I will provide locations for clients.    
+  - Reading: Regulations articles
   
   10. Other Technologies: Open Source GSM overview. Regulations. 
-  Discuss: Regulations 
+  - Discuss: Regulations 
   
   11. Final Prep
   
