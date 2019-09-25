@@ -12,14 +12,14 @@ Students will get hands on experience with equipment now used by MicroISPs and C
 Guests speakers, may include Peter Bloom from Rhizomatica (Indigenous GSM Networks), Jane Coffin from the Internet Society, and others who will elaborate on current trends, challenges and avenues for disconnected communities aroudn the world.   
 
 
-# Class Dates
-  1. Intros - History of the Internet, and Coomuntiy Networks
+# Sylybus
+  ### 1. Intros - History of the Internet, and Coomuntiy Networks
   - LAB: Make Ethernet Cables
   - Discus: Community Networks
   - HW: Set up Portable Network Kit (PNK)
   - Reading: Internet Society  
   
-  2. Mikrotik - Intro to networking - OSI Model, SSIds, IP Addresses
+  ### 2. Mikrotik - Intro to networking - OSI Model, SSIds, IP Addresses
   - LAB (Mikrotik): Winbox, Password, Users, Upgrade Firmware, Backups, SSIDs, DHCP/Static IPs
   - Guest Speaker: Jane Coffin - Internet Society 
   - HW: Mikrotik HotSpot Lab
