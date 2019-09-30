@@ -1,15 +1,14 @@
-# Towers-of-Power-2020: Community Networks Boot Camp
+# Towers-of-Power-2020: Community Networks + DIY Infrastructure
 
 7 Billion people around the world still do not have access to the internet. For some, it is too expensive. For others, it's a market failure. Many traditional communications providers don't see a profit margin for rural and underdeveloped communities.
 
 I was one of those people. When living in Bluefields, Nicaragua, I was unable to get a residential internet connection even though I lived a 10-minute walk from the University. My only options where expensive (U$5 for 1GB) cellular connections. This led me to start my own rural ISP in Nicaragua, and deploy community Open Source Cellular Networks.
 
-Community Networks and DIY Infrastructure is now becoming a realistic alternative to the large ISPs.In this class, you will learn the modern - and not so modern technologies - used to connected the disconnected.
-This is a crash course in real-world networking technologies, including long-distance wifi, Mikrotik routers, Open Source GSM, and Fiber PON networks.
+Community Networks and DIY Infrastructure is now becoming a realistic alternative to the large ISPs. In this class, you will learn the modern - and not so modern technologies - used to connected the disconnected. This is a crash course in real-world networking technologies, including long-distance wifi, Mikrotik routers, Open Source GSM, and Fiber PON networks.
 
-Students will get hands-on experience building a Portable Network Kit and using equipment used by MicroISPs and Community Networks.
+Students will get hands-on experience building a Portable Network Kit and using equipment that is deployed by MicroISPs and Community Networks around the world. 
 
-To elaborate on challenges in community networking, guests speakers, may include Peter Bloom from Rhizomatica (Indigenous GSM Networks), Jane Coffin from the Internet Society, and others who are activly involved internationally.
+To elaborate on challenges faced by guests speakers, may include Peter Bloom from Rhizomatica (Indigenous GSM Networks), Jane Coffin from the Internet Society, and others who are activly involved internationally.
 
 
 
